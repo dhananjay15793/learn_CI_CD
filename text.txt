@@ -1,0 +1,10 @@
+ Volume in drive C is G4-21H2-Lg
+ Volume Serial Number is E801-0000
+
+ Directory of C:\Users\HP-840 G4\Desktop\MyProject
+
+03-02-2023  07:58    <DIR>          .
+03-02-2023  07:58    <DIR>          ..
+03-02-2023  07:58                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  173,563,719,680 bytes free
